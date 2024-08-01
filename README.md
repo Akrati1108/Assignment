@@ -27,20 +27,15 @@ This project involves developing an end-to-end Applicant Tracking System (ATS) u
 
 ## Installation
 
-1. **Clone the Repository**
 
-    ```bash
-    git clone https://github.com/Disha4346/Smart-ATS.git
-    cd resume-analyzer-ats
-    ```
 
-2. **Install Dependencies**
+1. **Install Dependencies**
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Set Up API Key**
+2. **Set Up API Key**
 
     Obtain a Google Gemini Pro Vision API key and set it as an environment variable.
 
