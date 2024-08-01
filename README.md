@@ -1,8 +1,5 @@
 # LLM-Based Resume Analyzer, ATS Score, and JD Match Analyzer
 
-## Live Demo
-You can try out the live demo of the application here: [Smart ATS Run Easy](https://smart-ats-run-easy.streamlit.app/)
-
 
 ## Objective
 
@@ -76,6 +73,3 @@ I welcome contributions to enhance this project. To contribute:
 3. Commit your changes and push them to your branch.
 4. Create a Pull Request describing your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
